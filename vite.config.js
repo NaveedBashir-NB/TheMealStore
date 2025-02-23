@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  base: "/vite-deploy/",
+  base: "/Food-Recipe-Website/"
 })
