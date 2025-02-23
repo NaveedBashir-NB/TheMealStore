@@ -7,6 +7,6 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  // base: "/Food-Recipe-Website/"git pull origin main
+  // base: "/Food-Recipe-Website/"
 
 })
